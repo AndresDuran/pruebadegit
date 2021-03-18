@@ -11,6 +11,6 @@ package co.edu.ucundinamarca.pruebadegit;
  */
 public class Principal {
     public static void main(){
-        
+        System.out.println("Hola Mundo!");
     }
 }
