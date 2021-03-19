@@ -9,12 +9,10 @@ package co.edu.ucundinamarca.pruebadegit;
  *
  * @author polux
  */
-public class Principal {
+public class Persona {
     public static void main(){
-        System.out.println("Hola Mundo!");
-        
-        System.out.println("Linea de Profundizacion I");
-        
+        System.out.println("Hola Mundo en clase persona");
         
     }
+    
 }
